@@ -1,0 +1,5 @@
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.MissionControl\bin\Debug\MarsRovers.MissionControl.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.MissionControl\bin\Debug\MarsRovers.MissionControl.pdb
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.MissionControl\obj\Debug\MarsRovers.MissionControl.csprojResolveAssemblyReference.cache
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.MissionControl\obj\Debug\MarsRovers.MissionControl.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.MissionControl\obj\Debug\MarsRovers.MissionControl.pdb

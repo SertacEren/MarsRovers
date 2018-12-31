@@ -1,0 +1,9 @@
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\MarsRovers.Test.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\MarsRovers.Test.pdb
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\MarsRovers.MissionControl.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\MarsRovers.MissionControl.pdb
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\obj\Debug\MarsRovers.Test.csprojResolveAssemblyReference.cache
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\obj\Debug\MarsRovers.Test.dll
+C:\Users\sertac.eren\Desktop\Personal\projects\MarsRovers\MarsRovers.Test\obj\Debug\MarsRovers.Test.pdb
